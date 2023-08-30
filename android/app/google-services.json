@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "676476441933",
+    "project_id": "makani-sandbox",
+    "storage_bucket": "makani-sandbox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676476441933:android:75514516c73de42aae9304",
+        "android_client_info": {
+          "package_name": "com.makanis.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676476441933-i2td4ujfceb1srpj6bacvsnrr5o4f32b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.makanis.app",
+            "certificate_hash": "5033bd57a542a446202ebbd86a48e923e9856841"
+          }
+        },
+        {
+          "client_id": "676476441933-nssg1pv08knk1vld01tq9ble3efbt0ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzQdmyJL9EGBFWPFlAEKVBeuN4F9DLo8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676476441933-nssg1pv08knk1vld01tq9ble3efbt0ia.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "676476441933-6hnitq88tp7oovn0rjr8ismt08nc6e4n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.makanis.app.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676476441933:android:bb34f57cfa534f56ae9304",
+        "android_client_info": {
+          "package_name": "com.makanis.app.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676476441933-jcp7hki44dqdbm9a7bfgm6c35n20db2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.makanis.app.dev",
+            "certificate_hash": "5033bd57a542a446202ebbd86a48e923e9856841"
+          }
+        },
+        {
+          "client_id": "676476441933-nssg1pv08knk1vld01tq9ble3efbt0ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzQdmyJL9EGBFWPFlAEKVBeuN4F9DLo8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676476441933-nssg1pv08knk1vld01tq9ble3efbt0ia.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "676476441933-6hnitq88tp7oovn0rjr8ismt08nc6e4n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.makanis.app.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676476441933:android:49076238e7ded6e4ae9304",
+        "android_client_info": {
+          "package_name": "com.makanis.app.dev.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676476441933-g0hqfpcqleifj88fhr6838gum6n6nnsi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.makanis.app.dev.debug",
+            "certificate_hash": "7163eb94ffa57603ad57cb404c1b91cf4bbcc406"
+          }
+        },
+        {
+          "client_id": "676476441933-nssg1pv08knk1vld01tq9ble3efbt0ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzQdmyJL9EGBFWPFlAEKVBeuN4F9DLo8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676476441933-nssg1pv08knk1vld01tq9ble3efbt0ia.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "676476441933-6hnitq88tp7oovn0rjr8ismt08nc6e4n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.makanis.app.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
